@@ -1,0 +1,1 @@
+* This repository contains the assignments given within the Gelecek Hayalim: W-Code Data Science program.
